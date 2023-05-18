@@ -107,7 +107,7 @@ const side_projects = config.side_projects.map((project) => {
 
 const Quixote = () => (
   <PDFViewer width="100%" height="1000px">
-    <Document author="Danny Spina">
+    <Document title="Danny Spina CV" author="Danny Spina">
       <Page style={styles.body}>
         {/* Header */}
         <View style={styles.headerContainer}>

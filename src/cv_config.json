@@ -111,6 +111,16 @@
       "title": "The Typers",
       "description": "First italian podcast on Typescript and JavaScript",
       "url": "https://www.spreaker.com/show/the-typers"
+    },
+    {
+      "title": "JSON.resume",
+      "description": "Tool to manage and generate resume's PDF through a JSON config file",
+      "url": "https://github.com/daaanny90/JSON.resume"
+    },
+    {
+      "title": "Blaze",
+      "description": "Search engine to surf the web also under bad or unstable connections",
+      "url": "https://github.com/daaanny90/blaze"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "Danny Spina",
-  "summary": "I'm Danny, a web developer with a focus on building scalable and maintainable web applications.\nI have 6 years of experience working with front-end and back-end technologies, and specialize in TypeScript and JavaScript.\nI have a solid understanding of the latest web development technologies and frameworks such as React, Vue, Node.js and Express, and have experience working with a variety of databases like MongoDB, MySQL and PostgreSQL.\nI take pride in my ability to write clean, efficient and well-documented code, and am always looking for ways to improve my skills and stay up-to-date with the latest industry trends.\nI am also the host of \"The Typers\", the first italian podcast about JavaScript and Typescript.",
+  "summary": "I'm Danny, a Frontend Engineer with a focus on building scalable and maintainable web applications.\nI have 7 years of experience working with front-end and back-end technologies, and specialize in TypeScript and JavaScript.\nI have a solid understanding of the latest web development technologies and frameworks such as React, Vue, Node.js and Express, and have experience working with a variety of databases like MongoDB, MySQL and PostgreSQL.\nI take pride in my ability to write clean, efficient and well-documented code, and am always looking for ways to improve my skills and stay up-to-date with the latest industry trends.",
   "profession": "Software Developer",
   "contacts": {
     "email": "hi@dannyspina.com",
@@ -21,11 +21,19 @@
   },
   "experiences": [
     {
+      "title": "Frontend Engineer & Design Ops",
+      "type": "full-time",
+      "company": "Herole Services GmbH",
+      "from": "January 2024",
+      "to": "Now",
+      "summary": "Frontend engineer with the goal of rebuild the frontenf architecture of the company services and provide a new design system and new processes and communications tools between developers and designers."
+    },
+    {
       "title": "Web developer",
       "type": "full-time",
       "company": "Zalari GmbH",
       "from": "March 2023",
-      "to": "Now",
+      "to": "December 2023",
       "summary": "Web developer with focus on complex frontend architectures, web components and typescript"
     },
     {
@@ -107,11 +115,6 @@
         }
   ],
   "side_projects": [
-    {
-      "title": "The Typers",
-      "description": "First italian podcast on Typescript and JavaScript",
-      "url": "https://www.spreaker.com/show/the-typers"
-    },
     {
       "title": "JSON.resume",
       "description": "Tool to manage and generate resume's PDF through a JSON config file",

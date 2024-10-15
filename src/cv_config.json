@@ -1,7 +1,7 @@
 {
   "name": "Danny Spina",
   "summary": "I'm Danny, a Frontend Engineer with a focus on building scalable and maintainable web applications.\nI have 7 years of experience working with front-end and back-end technologies, and specialize in TypeScript and JavaScript.\nI have a solid understanding of the latest web development technologies and frameworks such as React, Vue, Node.js and Express, and have experience working with a variety of databases like MongoDB, MySQL and PostgreSQL.\nI take pride in my ability to write clean, efficient and well-documented code, and am always looking for ways to improve my skills and stay up-to-date with the latest industry trends.",
-  "profession": "Software Developer",
+  "profession": "Frontend Engineer & Design Ops",
   "contacts": {
     "email": "hi@dannyspina.com",
     "telephone": "+49 15175019301",
@@ -26,7 +26,7 @@
       "company": "Herole Services GmbH",
       "from": "January 2024",
       "to": "Now",
-      "summary": "Frontend engineer with the goal of rebuild the frontenf architecture of the company services and provide a new design system and new processes and communications tools between developers and designers."
+      "summary": "Frontend engineer with the goal of rebuild the frontend architecture of the company services and provide a new design system, new processes and communications tools between developers and designers."
     },
     {
       "title": "Web developer",

@@ -1,11 +1,14 @@
 {
   "name": "Danny Spina",
-  "summary": "I'm Danny, a Frontend Engineer with a focus on building scalable and maintainable web applications.\nI have 7 years of experience working with front-end and back-end technologies, and specialize in TypeScript and JavaScript.\nI have a solid understanding of the latest web development technologies and frameworks such as React, Vue, Node.js and Express, and have experience working with a variety of databases like MongoDB, MySQL and PostgreSQL.\nI take pride in my ability to write clean, efficient and well-documented code, and am always looking for ways to improve my skills and stay up-to-date with the latest industry trends.",
-  "profession": "Frontend Engineer & Design Ops",
+  "summary": "I'm Danny, a software developer with a special focus on frontend and design ops, based in Parma, Italy.\nI've been building web software since 2017 — full-stack product work, frontend architectures and design systems — first as an employee in German companies, now independently.\nBefore software I spent six years repairing professional camera equipment, a background that still shapes how I write code: documented, maintainable, made to be serviced by whoever comes next.\nI work mostly with TypeScript, Vue and Node.",
+  "profession": "Software Developer & Design Ops",
+  "sheet_code": "DS·CV·01",
   "contacts": {
     "email": "hi@dannyspina.com",
     "telephone": "+49 15175019301",
     "website": "dannyspina.com",
+    "location": "Parma, Italy",
+    "languages": "IT · DE · EN",
     "social": [
       {
         "social": "Twitter",
@@ -21,44 +24,64 @@
   },
   "experiences": [
     {
+      "title": "Software Developer & Design Ops",
+      "type": "freelance",
+      "company": "Independent · Parma, IT",
+      "from": "2026",
+      "to": "Now",
+      "period": "2026–now",
+      "tag": "independent",
+      "summary": "Independent software developer. Web software end to end — features, architecture, maintenance — with a special focus on frontend, design systems and design ops."
+    },
+    {
       "title": "Frontend Engineer & Design Ops",
       "type": "full-time",
       "company": "Herole Services GmbH",
       "from": "January 2024",
-      "to": "Now",
-      "summary": "Frontend engineer with the goal of rebuild the frontend architecture of the company services and provide a new design system, new processes and communications tools between developers and designers."
+      "to": "2026",
+      "period": "2024–26",
+      "tag": "design-ops",
+      "summary": "Rebuilt the frontend architecture of the company services and introduced a new design system, together with new processes and communication tools between developers and designers."
     },
     {
-      "title": "Web developer",
+      "title": "Web Developer",
       "type": "full-time",
       "company": "Zalari GmbH",
       "from": "March 2023",
       "to": "December 2023",
-      "summary": "Web developer with focus on complex frontend architectures, web components and typescript"
+      "period": "2023",
+      "tag": "front-end",
+      "summary": "Web developer focused on complex frontend architectures, web components and TypeScript."
     },
     {
-      "title": "Web developer",
+      "title": "Web Developer",
       "type": "full-time",
       "company": "Ostec GmbH",
       "from": "October 2020",
       "to": "April 2022",
-      "summary": "Full stack web developer, focus on both backend and frontend with PHP, Node/Typescript, Vue/Svelte, Gooogle Cloud Platform and Docker."
+      "period": "2020–22",
+      "tag": "full-stack",
+      "summary": "Full-stack web developer across backend and frontend — PHP, Node/TypeScript, Vue/Svelte, Google Cloud Platform and Docker."
     },
     {
-      "title": "Web developer",
+      "title": "Web Developer",
       "type": "internship",
       "company": "3m5. GmbH",
       "from": "August 2017",
       "to": "July 2020",
-      "summary": "Internship of 3 years to become software developer. Full stack experience with PHP, React, Javascript and Docker."
+      "period": "2017–20",
+      "tag": "apprenticeship",
+      "summary": "Three-year apprenticeship (Ausbildung) as software developer. Full-stack experience with PHP, React, JavaScript and Docker."
     },
     {
-      "title": "Nikon Technichan",
+      "title": "Nikon Technician",
       "type": "full-time",
       "company": "Nikon Service Point Dresden (DE) - MVS (IT)",
       "from": "August 2011",
       "to": "August 2017",
-      "summary": "Nikon Technician specialized on professional Nikon camera equipment."
+      "period": "2011–17",
+      "tag": "workshop",
+      "summary": "Technician specialized in professional Nikon camera equipment — precision repair of mechanical and electronic systems."
     }
   ],
   "education": [
@@ -66,12 +89,14 @@
       "institute": "BSZ Dresden",
       "from": "August 2017",
       "to": "July 2020",
-      "title": "Software developer"
+      "period": "2017–20",
+      "title": "Software Developer"
     },
     {
       "institute": "Politecnico di Milano - Faculty of Architecture",
-      "from": "september 2010",
+      "from": "September 2010",
       "to": "July 2011",
+      "period": "2010–11",
       "title": "Architecture (interrupted)"
     }
   ],
@@ -80,7 +105,7 @@
       "type": "Frontend",
       "skills": [
         "JavaScript",
-        "Typescript",
+        "TypeScript",
         "Web components",
         "Lit",
         "Svelte",
@@ -94,25 +119,25 @@
     },
     {
       "type": "Backend",
-      "skills": ["Node", "Typescript", "Express", "Python", "PHP", "Laravel"]
+      "skills": ["Node", "TypeScript", "Express", "Python", "PHP", "Laravel"]
     },
     {
       "type": "DevOps",
       "skills": ["Docker", "CI/CD", "Google Cloud Platform", "Serverless Architectures"]
     },
-        {
-          "type": "Other",
-          "skills": [
-            "GIT",
-            "GitHub",
-            "GitLab",
-            "Bitbucket",
-            "Jira",
-            "Azure DevOps",
-            "Linux",
-            "Bash"
-          ]
-        }
+    {
+      "type": "Other",
+      "skills": [
+        "GIT",
+        "GitHub",
+        "GitLab",
+        "Bitbucket",
+        "Jira",
+        "Azure DevOps",
+        "Linux",
+        "Bash"
+      ]
+    }
   ],
   "side_projects": [
     {
